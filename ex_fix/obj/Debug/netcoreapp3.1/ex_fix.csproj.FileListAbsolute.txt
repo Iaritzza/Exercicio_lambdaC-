@@ -1,0 +1,14 @@
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\bin\Debug\netcoreapp3.1\ex_fix.exe
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\bin\Debug\netcoreapp3.1\ex_fix.deps.json
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\bin\Debug\netcoreapp3.1\ex_fix.runtimeconfig.json
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\bin\Debug\netcoreapp3.1\ex_fix.runtimeconfig.dev.json
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\bin\Debug\netcoreapp3.1\ex_fix.dll
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\bin\Debug\netcoreapp3.1\ex_fix.pdb
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\obj\Debug\netcoreapp3.1\ex_fix.csproj.AssemblyReference.cache
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\obj\Debug\netcoreapp3.1\ex_fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\obj\Debug\netcoreapp3.1\ex_fix.AssemblyInfoInputs.cache
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\obj\Debug\netcoreapp3.1\ex_fix.AssemblyInfo.cs
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\obj\Debug\netcoreapp3.1\ex_fix.csproj.CoreCompileInputs.cache
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\obj\Debug\netcoreapp3.1\ex_fix.dll
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\obj\Debug\netcoreapp3.1\ex_fix.pdb
+C:\Users\kelto\OneDrive\Documentos\Iaritzza\ex_fix\ex_fix\obj\Debug\netcoreapp3.1\ex_fix.genruntimeconfig.cache
